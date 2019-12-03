@@ -4,6 +4,6 @@ console.log("My very first commit for new feature");
 
 console.log("created new branch (dashboard)");
 
-console.log("completed requested changes");
+console.log("completed requested changes hotfix");
 
 console.log("completed payment feature with bug fix");
